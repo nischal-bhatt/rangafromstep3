@@ -15,6 +15,7 @@ public class BooksController {
 		return Arrays.asList(new Book(1l,"mastering spring 5.5","ranga karanam"),
 				             new Book(2l,"nishi b","nn"),
 				             new Book(2l,"nishi b","nn"),
-				             new Book(8l,"nishi b","nn"));
+				             new Book(8l,"nishi b","nn"),
+				             new Book(3l,"nishi b","nn"));
 	}
 }
